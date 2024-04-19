@@ -3,6 +3,9 @@
 
 ## Description
 This React application displays a table of randomly generated user data fetched from the Random User Generator API. Users can sort the table by full name and username and navigate through multiple pages of user data.
+
+## How to use record video
+https://www.loom.com/share/3b0f87aa1faf4e2694e85671c0920072?sid=c8852ef3-3264-46fb-8cb9-27f70b3c4cea
 ## Installation
 
 1. Clone the repository to your local machine:
@@ -24,3 +27,4 @@ This React application displays a table of randomly generated user data fetched 
 - @fortawesome/react-fontawesome: "^0.1.15"
 - @fortawesome/free-solid-svg-icons: "^5.15.4"
 - styled-components: "^5.3.0"
+
